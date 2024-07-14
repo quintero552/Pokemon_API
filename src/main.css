@@ -1,0 +1,17 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.menu{
+    color: rgb(231, 229, 226);
+    text-decoration: none ;
+    margin-left: 20px;
+    font-weight: 400;
+}
+
+.active{
+    color: red;
+    text-decoration: none ;
+}
+
+.imgPoke{
+    width: 35px;
+}
